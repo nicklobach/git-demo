@@ -1,3 +1,6 @@
 Test cuka
+<<<<<<< HEAD
 dsafsdf
 sdafasfsdf
+=======
+>>>>>>> 5b8ba8e0175a044f33cf1894466105f140479ea9
